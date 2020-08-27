@@ -1,14 +1,2 @@
 objectid,filename,youtubeid,title,creator,date,description,subject,type,format,language
-coll001,test001.jpg,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910-10-14,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,Image;StillImage,image/jpeg,eng
-coll002,isle_stjean_expulsion.jpg,,Isle St-Jean: The Expulsion of 1758,Daniel Samson,2020-04-21,"A site that further explores the Acadian expulsion of 1758, with a focus on Isle St.Jean",history,InteractiveResource,image/jpeg,eng
-coll003,,,,,,,,,,
-coll004,,,,,,,,,,
-coll005,,,,,,,,,,
-coll006,,,,,,,,,,
-coll007,,,,,,,,,,
-coll008,,,,,,,,,,
-coll009,,,,,,,,,,
-coll010,,,,,,,,,,
-coll011,,,,,,,,,,
-coll012,,,,,,,,,,
-coll013,,,,,,,,,,
+coll001,isle_stjean_expulsion.jpg,,Isle St-Jean: The Expulsion of 1758,Daniel Samson,2020-04-21,"A site that further explores the Acadian expulsion of 1758, with a focus on Isle St.Jean",history,InteractiveResource,image/jpeg,eng
