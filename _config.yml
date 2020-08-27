@@ -8,36 +8,36 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://collectionbuilder.github.io
+url: https://Brock-Digital-Project-Showcase.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /collectionbuilder-gh
+baseurl: /Brock-Digital-Project-Showcase
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/Brock-Digital-Project-Showcase
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Brock Digital Project Showcase 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A showcase of some of the digital projects produced at Brock University
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "The Brock Digital Project Showcase is a collection demonstrating some of the digital projects produced by faculty, staff, and students at Brock University"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: BrockDSL
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo-metadata 
+metadata: collectionbuilder-metadata-file 
 
 ##########
 # GOOGLE SERVICES [optional!]
 #
 # leave these blank or comment out to NOT include google code
-# google-analytics-id: "UA-74844011-1"
+google-analytics-id: UA-128270403-1
 # google-cse-id: "002151703305773322890:1pu3smhw1t8"
 
 ##########
