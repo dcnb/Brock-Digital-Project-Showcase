@@ -1,5 +1,6 @@
 field,display_name,browse_link
 title,Title,
+link,Link,
 creator,Creator,
 date,Date Created,
 description,Description,
