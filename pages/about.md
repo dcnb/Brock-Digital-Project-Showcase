@@ -8,18 +8,13 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Digital Showcase;About the Brock University Digital Scholarship Lab" %}
 
-## About the Collection
+## About the Digital Showcase
 
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The Brock University Digital Showcase is a collection of digital projects produced at Brock University by faculty, staff, and students.  This colection is put together and managed by the Brock University Digital Scholarshio Lab.  The purpose of this showcase is to create a timeline and record of these projects in one location.  In addition, this showcase can be used to gather information on the production of digital projects at Brock by way of the metadata download options provided by using collection builder.
 
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
-
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-## About the About Page
+## About the Brock University Digital Scholarship Lab
 
 We want to make About pages exciting, and easy to build. 
 
