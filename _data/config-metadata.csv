@@ -1,11 +1,11 @@
 field,display_name,browse_link
 title,Title,
-link,Link,true
+link,Link,
 creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
 source,Source
 identifier,Source Identifier
-type,Type,
+
 
