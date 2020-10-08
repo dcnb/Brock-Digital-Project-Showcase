@@ -7,5 +7,5 @@ description,Description,
 subject,Subjects,true
 source,Source
 identifier,Source Identifier
-
+type,Type,
 
